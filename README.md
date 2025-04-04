@@ -9,3 +9,5 @@
 ## Till now I have implemented the following data structures and soon I will be adding more
 
 - [Linked List](src/linked_list.rs) - Implementation inspired by the [Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) guide.
+
+- [Binay Search Tree](src/binary_search_tree.rs) - Implemntation of binary search tree with Pre order, In order  Post order and Level order traversal (BFS).
